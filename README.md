@@ -1,2 +1,2 @@
 # invie-github
-Ejemplo curso GIT
+Ejemplo curso GIT proyecto Invie-Platzi
